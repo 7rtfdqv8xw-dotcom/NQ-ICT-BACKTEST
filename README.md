@@ -7,7 +7,7 @@ This project is for **educational and research purposes only**. Nothing in this 
 **This code was developed with the assistance of AI.**
 
 > **⚠️ Data not included**
-> The CSV files are **not part of this repository**. Historical NQ futures data is licensed and must be purchased separately (e.g. from NinjaTrader, TradeStation, or a similar data provider). The files exceed GitHub's file size limit and cannot be shared here. 
+> The CSV files are **not part of this repository**. Historical NQ futures data is licensed and must be purchased separately. The files exceed GitHub's file size limit and cannot be shared here. 
  **PURCHASE THE  CSV DATA FROM : https://www.backtestmarket.com/en/nasdaq-pack 
   
 AND SAVE IT UNDER A FOLDER NAMED "DATA/"
